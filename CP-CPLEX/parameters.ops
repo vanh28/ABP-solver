@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cplex">
+    <setting name="workmem" value="122880.0"/>
+    <setting name="ppriind" value="4"/>
+  </category>
+  <category name="cp">
+    <setting name="timelimit" value="1800.0"/>
+  </category>
+</settings>
