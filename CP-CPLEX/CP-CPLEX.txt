@@ -1,0 +1,25 @@
+./runlim -r 1800 -s 30000 -o results/A-pores_1-runlim.log oplrun -l results/A-pores_1-output.out CP-CPLEX.mod A-pores_1.dat 
+./runlim -r 1800 -s 30000 -o results/B-ibm32-runlim.log oplrun -l results/B-ibm32-output.out CP-CPLEX.mod B-ibm32.dat 
+./runlim -r 1800 -s 30000 -o results/C-bcspwr01-runlim.log oplrun -l results/C-bcspwr01-output.out CP-CPLEX.mod C-bcspwr01.dat 
+./runlim -r 1800 -s 30000 -o results/D-bcsstk01-runlim.log oplrun -l results/D-bcsstk01-output.out CP-CPLEX.mod D-bcsstk01.dat 
+./runlim -r 1800 -s 30000 -o results/E-bcspwr02-runlim.log oplrun -l results/E-bcspwr02-output.out CP-CPLEX.mod E-bcspwr02.dat 
+./runlim -r 1800 -s 30000 -o results/F-curtis54-runlim.log oplrun -l results/F-curtis54-output.out CP-CPLEX.mod F-curtis54.dat 
+./runlim -r 1800 -s 30000 -o results/G-will57-runlim.log oplrun -l results/G-will57-output.out CP-CPLEX.mod G-will57.dat 
+./runlim -r 1800 -s 30000 -o results/H-impcol_b-runlim.log oplrun -l results/H-impcolb-output.out CP-CPLEX.mod H-impcolb.dat 
+./runlim -r 1800 -s 30000 -o results/I-ash85-runlim.log oplrun -l results/I-ash85-output.out CP-CPLEX.mod I-ash85.dat 
+./runlim -r 1800 -s 30000 -o results/J-nos4-runlim.log oplrun -l results/J-nos4-output.out CP-CPLEX.mod J-nos4.dat 
+./runlim -r 1800 -s 30000 -o results/K-dwt__234-runlim.log oplrun -l results/K-dwt__234-output.out CP-CPLEX.mod K-dwt__234.dat 
+./runlim -r 1800 -s 30000 -o results/L-bcspwr03-runlim.log oplrun -l results/L-bcspwr03-output.out CP-CPLEX.mod L-bcspwr03.dat 
+./runlim -r 1800 -s 30000 -o results/M-bcsstk06-runlim.log oplrun -l results/M-bcsstk06-output.out CP-CPLEX.mod M-bcsstk06.dat 
+./runlim -r 1800 -s 30000 -o results/N-bcsstk07-runlim.log oplrun -l results/N-bcsstk07-output.out CP-CPLEX.mod N-bcsstk07.dat
+./runlim -r 1800 -s 30000 -o results/O-impcol_d-runlim.log oplrun -l results/O-impcol_d-output.out CP-CPLEX.mod O-impcol_d.dat
+./runlim -r 1800 -s 30000 -o results/P-can__445-runlim.log oplrun -l results/P-can__445-output.out CP-CPLEX.mod P-can__445.dat
+./runlim -r 1800 -s 30000 -o results/Q-494_bus-runlim.log oplrun -l results/Q-494_bus-output.out CP-CPLEX.mod Q-494_bus.dat 
+./runlim -r 1800 -s 30000 -o results/R-dwt__503-runlim.log oplrun -l results/R-dwt__503-output.out CP-CPLEX.mod R-dwt__503.dat
+./runlim -r 1800 -s 30000 -o results/S-sherman4-runlim.log oplrun -l results/S-sherman4-output.out CP-CPLEX.mod S-sherman4.dat 
+./runlim -r 1800 -s 30000 -o results/T-dwt__592-runlim.log oplrun -l results/T-dwt__592-output.out CP-CPLEX.mod T-dwt__592.dat 
+./runlim -r 1800 -s 30000 -o results/U-662_bus-runlim.log oplrun -l results/U-662_bus-output.out CP-CPLEX.mod U-662_bus.dat 
+./runlim -r 1800 -s 30000 -o results/V-nos6-runlim.log oplrun -l results/V-nos6-output.out CP-CPLEX.mod V-nos6.dat
+./runlim -r 1800 -s 30000 -o results/W-685_bus-runlim.log oplrun -l results/W-685_bus-output.out CP-CPLEX.mod W-685_bus.dat 
+./runlim -r 1800 -s 30000 -o results/X-can__715-runlim.log oplrun -l results/X-can__715-output.out CP-CPLEX.mod X-can__715.dat 
+

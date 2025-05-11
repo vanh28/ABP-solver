@@ -1,0 +1,36 @@
+./runlim -s 30000 -o cp-sat/A-pores_1-runlim.log python3 cp-sat.py A-pores_1.mtx.rnd 2>&1 | tee cp-sat/A-pores_1-output.log
+./runlim -s 30000 -o cp-sat/B-ibm32-runlim.log python3 cp-sat.py B-ibm32.mtx.rnd 2>&1 | tee cp-sat/B-ibm32-output.log
+./runlim -s 30000 -o cp-sat/C-bcspwr01-runlim.log python3 cp-sat.py C-bcspwr01.mtx.rnd 2>&1 | tee cp-sat/C-bcspwr01-output.log
+./runlim -s 30000 -o cp-sat/D-bcsstk01-runlim.log python3 cp-sat.py D-bcsstk01.mtx.rnd 2>&1 | tee cp-sat/D-bcsstk01-output.log
+./runlim -s 30000 -o cp-sat/E-bcspwr02-runlim.log python3 cp-sat.py E-bcspwr02.mtx.rnd 2>&1 | tee cp-sat/E-bcspwr02-output.log
+./runlim -s 30000 -o cp-sat/F-curtis54-runlim.log python3 cp-sat.py F-curtis54.mtx.rnd 2>&1 | tee cp-sat/F-curtis54-output.log
+./runlim -s 30000 -o cp-sat/G-will57-runlim.log python3 cp-sat.py G-will57.mtx.rnd 2>&1 | tee cp-sat/G-will57-output.log
+./runlim -s 30000 -o cp-sat/H-impcol_b-runlim.log python3 cp-sat.py H-impcol_b.mtx.rnd 2>&1 | tee cp-sat/H-impcol_b-output.log
+./runlim -s 30000 -o cp-sat/I-ash85-runlim.log python3 cp-sat.py I-ash85.mtx.rnd 2>&1 | tee cp-sat/I-ash85-output.log
+./runlim -s 30000 -o cp-sat/J-nos4-runlim.log python3 cp-sat.py J-nos4.mtx.rnd 2>&1 | tee cp-sat/J-nos4-output.log
+./runlim -s 30000 -o cp-sat/K-dwt__234-runlim.log python3 cp-sat.py K-dwt__234.mtx.rnd 2>&1 | tee cp-sat/K-dwt__234-output.log
+./runlim -s 30000 -o cp-sat/L-bcspwr03-runlim.log python3 cp-sat.py L-bcspwr03.mtx.rnd 2>&1 | tee cp-sat/L-bcspwr03-output.log
+./runlim -s 30000 -o cp-sat/M-bcsstk06-runlim.log python3 cp-sat.py M-bcsstk06.mtx.rnd 2>&1 | tee cp-sat/M-bcsstk06-output.log
+./runlim -s 30000 -o cp-sat/N-bcsstk07-runlim.log python3 cp-sat.py N-bcsstk07.mtx.rnd 2>&1 | tee cp-sat/N-bcsstk07-output.log
+./runlim -s 30000 -o cp-sat/O-impcol_d-runlim.log python3 cp-sat.py O-impcol_d.mtx.rnd 2>&1 | tee cp-sat/O-impcol_d-output.log
+./runlim -s 30000 -o cp-sat/P-can__445-runlim.log python3 cp-sat.py P-can__445.mtx.rnd 2>&1 | tee cp-sat/P-can__445-output.log
+./runlim -s 30000 -o cp-sat/Q-494_bus-runlim.log python3 cp-sat.py Q-494_bus.mtx.rnd 2>&1 | tee cp-sat/Q-494_bus-output.log
+./runlim -s 30000 -o cp-sat/R-dwt__503-runlim.log python3 cp-sat.py R-dwt__503.mtx.rnd 2>&1 | tee cp-sat/R-dwt__503-output.log
+./runlim -s 30000 -o cp-sat/S-sherman4-runlim.log python3 cp-sat.py S-sherman4.mtx.rnd 2>&1 | tee cp-sat/S-sherman4-output.log
+./runlim -s 30000 -o cp-sat/T-dwt__592-runlim.log python3 cp-sat.py T-dwt__592.mtx.rnd 2>&1 | tee cp-sat/T-dwt__592-output.log
+./runlim -s 30000 -o cp-sat/U-662_bus-runlim.log python3 cp-sat.py U-662_bus.mtx.rnd 2>&1 | tee cp-sat/U-662_bus-output.log
+./runlim -s 30000 -o cp-sat/V-nos6-runlim.log python3 cp-sat.py V-nos6.mtx.rnd 2>&1 | tee cp-sat/V-nos6-output.log
+./runlim -s 30000 -o cp-sat/W-685_bus-runlim.log python3 cp-sat.py W-685_bus.mtx.rnd 2>&1 | tee cp-sat/W-685_bus-output.log
+./runlim -s 30000 -o cp-sat/X-can__715-runlim.log python3 cp-sat.py X-can__715.mtx.rnd 2>&1 | tee cp-sat/X-can__715-output.log
+
+
+
+
+
+
+
+
+
+
+
+
